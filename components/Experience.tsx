@@ -11,7 +11,7 @@ const experiences = [
     desc: "Evaluated AI-generated responses across diverse prompts using structured rubrics to improve model accuracy, coherence, and safety. Identified failure patterns and edge cases in LLM outputs.",
   },
   {
-    role: "PRODUCT & GROWTH INTERN",
+    role: "PRODUCT & GROWTH",
     company: "SODA.IO · New York City",
     date: "Jun 2025 – Present",
     pills: ["Attendance 38%→55%", "50+ User Interviews", "+30% Leads"],
