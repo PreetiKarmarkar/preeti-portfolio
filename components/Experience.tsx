@@ -11,14 +11,14 @@ const experiences = [
     desc: "Evaluated AI-generated responses across diverse prompts using structured rubrics to improve model accuracy, coherence, and safety. Identified failure patterns and edge cases in LLM outputs.",
   },
   {
-    role: "PRODUCT & MARKETING INTERN",
+    role: "PRODUCT & GROWTH INTERN",
     company: "SODA.IO · New York City",
     date: "Jun 2025 – Present",
     pills: ["Attendance 38%→55%", "50+ User Interviews", "+30% Leads"],
     desc: "Designed automated onboarding workflows (Zapier + CRM), built scalable U.S. event playbook, and ran targeted partnership experiments during Databricks World increasing qualified leads by 30%.",
   },
   {
-    role: "GRADUATE CAPSTONE — AI MEDIA ANALYST",
+    role: "AI PRODUCT MANAGER",
     company: "Omnicom Media Group · New York City",
     date: "Sep – Dec 2025",
     pills: ["Python + SQL", "Power BI", "4-Person Team Lead"],
